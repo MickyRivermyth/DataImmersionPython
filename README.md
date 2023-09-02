@@ -8,3 +8,13 @@ This project focused on Instacart, an online grocery store where customer's purc
 * Products
 * Customers
 * Departments
+## Folders
+-01 Project Management: Contains zipped files submitted for project
+-02 Data: Contains datasets used for analysis
+-03 Scripts: Contains scripts created in Python
+-04 Analysis: Contains visualizations created in Python
+-05 Sent to client: Contains final report provided to Instacart
+## Tools
+#### Tools used within Python for this project:
+* panda - For data analysisa
+* seaborn - For data visualizations
